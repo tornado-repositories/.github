@@ -8,7 +8,7 @@ They are maintained on Github by [Matthew D. Green](https://isi.jhu.edu/~mgreen/
 Tornado Cash and Tornado Nova are open-source coin mixing tools that were developed by an independent team of software
 developers and deployed onto Ethereum and several other blockchains. On August 8, 2022 the Office of Foreign
 Assets Control (OFAC), a division of the US Treasury, [declared "Tornado Cash" and "Tornado Cash Nova" to be
-Specially Designated Nationals (SDNs)](https://home.treasury.gov/news/press-releases/jy0916): the result was to effectively sanction the Tornado Cash organization and its deployment on Ethereum.
+Specially Designated Nationals (SDNs)](https://home.treasury.gov/news/press-releases/jy0916): the result was to effectively sanction the Tornado Cash organization, its software development repositories, and the main smart contract deployment on Ethereum.
 
 This move to sanction Tornado Cash represents the first instance in which the US government has 
 applied economic sanctions to an open source software project. As a result of this announcement, several cryptocurrency
