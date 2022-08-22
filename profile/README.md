@@ -52,5 +52,4 @@ You can also find recent clones of the Tornado Cash repositories on [Software He
 ### Will you take PRs for Tornado Cash, or host other projects?
 
 These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
-which means that over time they will gradually become obsolete. In the future this organization may evolve to host archival forks of other non-TC privacy projects, should I determine that they are also at risk of sanctions-based code  
-removal.
+which means that over time they will gradually become obsolete. If open source Tornado Cash development resumes (even under a different team of developers), I may periodically clone copies of their repositories here. In the future this organization may also evolve to host archival forks of other non-TC privacy projects, should I determine that they are also at risk of sanctions-based code removal.
