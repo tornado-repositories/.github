@@ -35,7 +35,7 @@ The creation of the current archival repository organization does not solve this
 
 Git is a decentralized version control system. Hence other copies of the Tornado Cash code certainly exist 
 on other machines and at other locations (in fact, go ahead and make a clone right now!) You should be able to verify that these 
-are authentic by comparing hashes to a main trusted repository, like the one that used to be hosted here on Github. (Here's a [Wayback Machine copy](https://web.archive.org/web/20220808144505/https://github.com/tornadocash).)
+are authentic by comparing hashes to a main trusted repository, like the one that used to be hosted here on Github. (Since that no longer exists, you can use the forks in this repository. Alternatively here's a [Wayback Machine copy](https://web.archive.org/web/20220808144505/https://github.com/tornadocash) that still sort of works.)
 
 Hence  Github's removal of the Tornado Cash code repositories and developer accounts is not a total ban on the source code. It does have two critical effects: first, it halts the ongoing development of this source code *even as a pure software 
 development and research project.* Second, it makes discovery of the code much more difficult. (It is more analogous to removing a book from major commercial bookstores, while still allowing users to exchange PDF files on USB sticks.) At present a non-expert user searching for the Tornado Cash code on Google will have a difficult time. Try it yourself.
