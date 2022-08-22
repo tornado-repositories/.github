@@ -31,6 +31,20 @@ Given that much of the Internet publishing infrastructure is operated by private
 
 The creation of the current archival repository organization does not solve this issue, nor will it repair the damage that has already been done. Instead, this repository exists to make clear to Treasury and Github that *this code has value*, and its removal has consequences to researchers and students in the United States. Moreover, it exists to test the proposition that code removal should ever been an appropriate response to sanctions orders, no matter how justifiable the order may seem. I have discussed my concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me as a client, should legal representation become necessary.  See their blog post here. 
 
+### But Git is decentralized (and IPFS exists) so what's the big deal?
+
+Git is a decentralized source repository. Hence other copies of the Tornado Cash code certainly exist 
+on other machines and at other locations (in fact, go ahead and make a clone right now!) 
+Github's removal of the Tornado Cash code repositories and developer accounts is hardly a total ban on the source code. However it has two critical effects: first, it halts the ongoing development of this source code *even as a pure software 
+development and research project.* Second, it makes discovery of the code much more difficult. (It is perhaps analogous to removing a book from major commercial bookstores, while allowing users to exchange PDF files on USB sticks.)
+
+At present a non-expert user searching for the Tornado Cash code on Google will have a difficult time. Try it yourself.
+
+If you want a copy of the code on a more durable decentralized medium, there are some copied of (limited) repositories on IPFS. I don't warranty these, and you should carefully check hashes against the repositories on Github and in the Wayback Machine just in case:
+
+* Tornado Nova: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
+* Tornado Cash Classic: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
+
 ### Will you take PRs for Tornado Cash, or host other projects?
 
 These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
