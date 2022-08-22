@@ -22,7 +22,7 @@ While Github succeeded in removing the original copies of all Tornado source cod
 ### Why preserve the Tornado Cash source code?
 
 In my work as a researcher and instructor at Johns Hopkins, I've made extensive use of the Tornado Cash and Tornado Nova source code 
-to teach concepts related to cryptocurrency privacy and zero-knowledge technology. The loss or decreased availability of this 
+to teach concepts related to cryptocurrency privacy and zero-knowledge technology. My students have built amazing projects from the code. The loss or decreased availability of this 
 source code will be harmful to the scientific and technical communities.
 
 Moreover, I am uncomfortable with the implications of the Github decision. Github is a private company, and of course it can suspend 
