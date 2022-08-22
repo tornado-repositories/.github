@@ -13,13 +13,13 @@ Specially Designated Nationals (SDNs)](https://home.treasury.gov/news/press-rele
 This move to sanction Tornado Cash represents the first instance in which the US government has 
 applied economic sanctions to an open source software project. As a result of this announcement, several cryptocurrency
 exchanges have banned users who interact with the Tornado Cash smart contract address on Ethereum. 
-At the same time, Github shut down the user accounts of all known Tornado Cash developers, and removed the source code repositories owned by Tornado's Github organization. 
+At the same time, [Github shut down the user accounts of all known Tornado Cash developers, and removed the source code repositories owned by Tornado's Github organization.](https://www.theregister.com/2022/08/10/github_tornado_cookies/)
 
 While Github succeeded in removing the original copies of all Tornado source code repositories, several recent "forks" of the code can be found on Github. These were recently collected together by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. This current repository is simply a second fork of the repositories collected by that organization.  
 
 ### Why preserve the Tornado Cash source code?
 
-In my role as a researcher and instructor at Johns Hopkins, I have made extensive use of the Tornado Cash and Tornado Nova source code 
+In my work as a researcher and instructor at Johns Hopkins, I have made extensive use of the Tornado Cash and Tornado Nova source code 
 to teach concepts related to cryptocurrency privacy and zero-knowledge technology. The loss or decreased availability of this 
 source code will be harmful to the scientific and technical communities.
 
