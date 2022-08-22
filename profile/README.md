@@ -1,8 +1,7 @@
 ## Welcome to Tornado-Repositories, an archival fork of the Tornado Cash source code
 
 These repositories contain an archival fork of the Tornado Cash and Tornado Cash Nova source code base. 
-They are maintained on Github by Matthew D. Green (prof. at Johns Hopkins University) for teaching purposes,
-and to make sure that the source code for useful privacy code has a safe home.
+They are maintained on Github by [Matthew D. Green](https://isi.jhu.edu/~mgreen/) of Johns Hopkins for teaching and research purposes.
 
 ### What is Tornado Cash and what is this repository?
 
