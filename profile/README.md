@@ -27,15 +27,13 @@ source code will be harmful to the scientific and technical communities.
 
 Moreover, I am uncomfortable with the implications of the Github decision. Github is a private company, and of course can suspend 
 users for any perceived violation of its Terms of Service. However it is absurd to pretend that Github's decision was not triggered as 
-a direct result of the OFAC/Treasury sanctions action. In my opinion the chain of consequence from OFAC order to source code removal is  
-entirely predictable and expected. Given that much of the Internet publishing infrastructure is operated by private firms, this creates a "chilling effect" in 
-which certain software projects may be effectively deprived of the ability to distribute source code. These repositories exist to test that proposition. 
+a direct result of the OFAC/Treasury sanctions action. In my opinion the removal of source code from Github as a result of OFAC's order should have been entirely predictable. Given that much of the Internet publishing infrastructure is operated by private firms, this means that OFAC has the ability to ban speech by creating severe sanctions risk to private organizations. That "chilling effect" means that protected speech can be effectively deprived to certain organization. 
 
-I have discussed these concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me. 
+The current repository exists to make it clear to Treasury/USG that *this code has value*, and its removal has consequences to researchers and students in the United States. Moreover, it exists to test the proposition that code removal should ever been an appropriate response to sanctions orders, no matter how justifiable the order may seem. I have discussed my concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me as a client, should legal representation become necessary. 
 See their blog post here. 
 
 ### Will you take PRs for Tornado Cash, or host other projects?
 
 These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
-which means that they will gradually become obsolete. In time this page may evolve to include other non-TC privacy projects, should I determine that they are also at risk of sanctions-based code  
-removal from Github or other private code hosting firms. 
+which means that over time they will gradually become obsolete. In the future this organization may evolve to host archival forks of other non-TC privacy projects, should I determine that they are also at risk of sanctions-based code  
+removal.
