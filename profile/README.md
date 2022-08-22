@@ -33,14 +33,14 @@ The creation of the current archival repository organization does not solve this
 
 ### But Git is decentralized (and IPFS exists) so what's the big deal?
 
-Git is a decentralized source repository. Hence other copies of the Tornado Cash code certainly exist 
-on other machines and at other locations (in fact, go ahead and make a clone right now!) 
-Github's removal of the Tornado Cash code repositories and developer accounts is hardly a total ban on the source code. However it has two critical effects: first, it halts the ongoing development of this source code *even as a pure software 
-development and research project.* Second, it makes discovery of the code much more difficult. (It is perhaps analogous to removing a book from major commercial bookstores, while allowing users to exchange PDF files on USB sticks.)
+Git is a decentralized version control system. Hence other copies of the Tornado Cash code certainly exist 
+on other machines and at other locations (in fact, go ahead and make a clone right now!) You should be able to verify that these 
+are authentic by comparing hashes to a main trusted repository, like the one that used to be hosted here on Github.
 
-At present a non-expert user searching for the Tornado Cash code on Google will have a difficult time. Try it yourself.
+Hence  Github's removal of the Tornado Cash code repositories and developer accounts is hardly a total ban on the source code. It does have two critical effects: first, it halts the ongoing development of this source code *even as a pure software 
+development and research project.* Second, it makes discovery of the code much more difficult. (It is perhaps analogous to removing a book from major commercial bookstores, while allowing users to exchange PDF files on USB sticks.) At present a non-expert user searching for the Tornado Cash code on Google will have a difficult time. Try it yourself.
 
-If you want a copy of the code on a more durable decentralized medium, there are some copied of (limited) repositories on IPFS. I don't warranty these, and you should carefully check hashes against the repositories on Github and in the Wayback Machine just in case:
+If you want a copy of the code on a more durable decentralized medium, there are some copied of (limited) repositories on IPFS. I certainly don't warranty these (or any of this code), and you should carefully check hashes against the repositories on Github and in the Wayback Machine just in case:
 
 * Tornado Nova: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
 * Tornado Cash Classic: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
