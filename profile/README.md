@@ -15,7 +15,7 @@ This move to sanction Tornado Cash is unprecedented: it is the first instance in
 has applied sanctions to an open source software project. As a result of this announcement, several cryptocurrency
 organizations began to block users who had interacted with the Tornado Cash smart contract address on Ethereum. 
 At the same time, Github banned the user accounts of the Tornado Cash developers, and removed the source code repositories owned by
-Tornado's Github organixation. 
+Tornado's Github organization. 
 
 While Github successfully removed all of the the main Tornado repositories, several recent forks of the code can be found on Github. These were recently collected together by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. The current repository is simply a second fork of those repositories. 
 
