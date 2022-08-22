@@ -11,14 +11,13 @@ developers and deployed onto Ethereum and several other blockchains. On August 8
 Assets Control (OFAC), a division of the US Treasury, [declared](https://home.treasury.gov/news/press-releases/jy0916) "Tornado Cash" and "Tornado Cash Nova" to be
 Specially Designated Nationals (SDNs), effectively sanctioning Tornado Cash.
 
-This move to sanction Tornado Cash was historically unique: it represents the first instance in which Treasury
+This move to sanction Tornado Cash is unprecedented: it is the first instance in which Treasury
 has applied sanctions to an open source software project. As a result of this announcement, several cryptocurrency
-organizations began to block users who had interacted with the Tornado Cash smart contract address. Github banned
-the user accounts of the Tornado developers, and removed all source code repositories related to this project.
+organizations began to block users who had interacted with the Tornado Cash smart contract address on Ethereum. 
+At the same time, Github banned the user accounts of the Tornado Cash developers, and removed the source code repositories owned by
+Tornado's Github organixation. 
 
-While Github deleted the main Tornado repositories, several recent forks of the code exist on Github. These were collected
-together by the [tornadocash-community](https://github.com/tornadocash-community) organization. This organization simply contains
-an independent fork of the repositories that were collected by that organization.
+While Github successfully removed all of the the main Tornado repositories, several recent forks of the code can be found on Github. These were recently collected together by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. The current repository is simply a second fork of those repositories. 
 
 ### Why preserve the Tornado Cash source code?
 
