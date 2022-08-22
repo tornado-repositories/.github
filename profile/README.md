@@ -17,7 +17,7 @@ applied economic sanctions to an open source software project. As a result of th
 exchanges have banned users who interact with the Tornado Cash smart contract address on Ethereum. 
 At the same time, [Github shut down the user accounts of all known Tornado Cash developers, and removed the source code repositories owned by Tornado's Github organization.](https://www.theregister.com/2022/08/10/github_tornado_cookies/)
 
-While Github succeeded in removing the original copies of all Tornado source code repositories, they did not remove all "forks" of the code made by GitHub users. Several of these forks were recently collected by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. This current repository is simply a (further) fork of the repositories collected by that organization.  
+While Github succeeded in removing the original copies of all Tornado source code repositories, they did not remove all "forks" of the code made by GitHub users. Several [of these forks](https://github.com/tornado-repositories/tornado-verified-forks) were recently collected and (further) forked by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. This current repository is simply another fork of the repositories collected by that organization.  
 
 ### Why preserve the Tornado Cash source code?
 
