@@ -4,7 +4,7 @@ These repositories contain an archival fork of the Tornado Cash and Tornado Cash
 They are maintained on Github by Matthew D. Green (prof. at Johns Hopkins University) for teaching purposes,
 and to make sure that the source code for useful privacy code has a safe home.
 
-# What is Tornado Cash and what is this repository?
+### What is Tornado Cash and what is this repository?
 
 Tornado Cash (and Tornado Nova) are open-source coin mixing tools that were developed by an independent team of software
 developers and deployed onto Ethereum and several other blockchains. On August 8, 2022 the Office of Foreign
@@ -20,7 +20,7 @@ While Github deleted the main Tornado repositories, several recent forks of the 
 together by the [tornadocash-community](https://github.com/tornadocash-community) organization. This organization simply contains
 an independent fork of the repositories that were collected by that organization.
 
-# Why preserve the Tornado Cash source code?
+### Why preserve the Tornado Cash source code?
 
 In my role as a researcher and instructor at Johns Hopkins, I have made extensive use of the Tornado Cash and Tornado Nova source code 
 to teach concepts related to cryptocurrency privacy and zero-knowledge technology. The loss or decreased availability of this 
@@ -34,3 +34,9 @@ which certain software projects may be effectively deprived of the ability to di
 
 I have discussed these concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me. 
 See their blog post here. 
+
+### Will you take PRs for Tornady, or host other projects?
+
+These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
+which means that they will gradually become obsolete. In time this page may evolve to include other non-TC privacy projects, should I determine that they are also at risk of code 
+removal from Github or other private repositories. 
