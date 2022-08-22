@@ -35,9 +35,9 @@ The creation of this archival repository organization does not solve this issue.
 
 ### Why are you hosting this on GitHub...? Can't GitHub just take down this organization?
 
-GitHub, as one of the most widely-used software repositories in the world, seems like a pretty good place to host this repository. It's certainly more reliable than self-hosting on my own servers at the University, and I routinely use GitHub to host course material for my classes. At this moment I have no reason to believe that GitHub is opposed to the hosting of the Tornado Cash repository for non-deployment purposes, and so I'm assuming that this (and other repositories) will be perfectly safe here. 
+GitHub, as one of the most widely-used software distribution websites in the world, is an ideal place to host this repository. Deploying software on GitHub is more reliable than self-hosting on servers at the University: because of this I routinely use GitHub to host course material for my classes. At this moment I have no reason to believe that GitHub is opposed to the hosting of Tornado Cash's source code for non-deployment purposes.
 
-GitHub may see things differently: if so, that would be *fascinating*. It goes without saying that I have made offline copies of all these repositories and will immediately re-post them in a different location (such as a University server) if something like that happens.
+GitHub may see things differently: if so, that would be fascinating. It goes without saying that I have made offline copies of all these repositories and will immediately re-publish them in a different location (such as a University server) if this site becomes inaccessible.
 
 ### But Git is decentralized (and IPFS exists) so why do we care about GitHub?
 
