@@ -35,8 +35,8 @@ which certain software projects may be effectively deprived of the ability to di
 I have discussed these concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me. 
 See their blog post here. 
 
-### Will you take PRs for Tornady, or host other projects?
+### Will you take PRs for Tornado Cash, or host other projects?
 
 These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
 which means that they will gradually become obsolete. In time this page may evolve to include other non-TC privacy projects, should I determine that they are also at risk of code 
-removal from Github or other private repositories. 
+removal from Github or other private code hosting firms. 
