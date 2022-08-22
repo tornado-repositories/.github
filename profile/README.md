@@ -24,8 +24,8 @@ to teach concepts related to cryptocurrency privacy and zero-knowledge technolog
 source code will be harmful to the scientific and technical communities.
 
 Moreover, I am uncomfortable with the implications of the Github decision. Github is a private company, and of course it can suspend 
-users for any perceived violation of its Terms of Service. However: it defies credibility to believe that Github's decision was made independently from the Treasury order. In my opinion it is much more likely that Github censored the 
-Tornado Cash code repositories as the result of a risk-mitigation exercise *following the receipt of the OFAC order*. Moreover, I believe that the removal of protected speech was an entirely predictable consequence when OFAC issued its order.
+users for any perceived violation of its Terms of Service. At the same time, it is hard to believe that Github's decision was unrelated to the government's action. In my opinion it is much more likely that Github censored the 
+Tornado Cash code repositories as part of a risk-mitigation exercise they engaged in *as a direct result of receiving the OFAC order*. Moreover, I believe that this removal of protected speech was a predictable consequence of OFAC's action.
 
 Given that much of the Internet publishing infrastructure is operated by private firms, the example of Tornado Cash forces us to confront the the prospect that OFAC may hae the power to effectively ban source code distribution and scientific speech. This would not be accomplished through explicit action, but rather by imposing severe perceived sanctions risk to private companies and US citizens that host the speech. This creates a "chilling effect" on speech, and allows the US government to determine which citizens and organizations have the right to publish their source code and scientific artifacts. 
 
