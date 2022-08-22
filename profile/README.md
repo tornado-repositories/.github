@@ -21,7 +21,7 @@ While Github succeeded in removing the original copies of all Tornado source cod
 
 ### Why preserve the Tornado Cash source code?
 
-In my work as a researcher and instructor at Johns Hopkins, I have made extensive use of the Tornado Cash and Tornado Nova source code 
+In my work as a researcher and instructor at Johns Hopkins, I've made extensive use of the Tornado Cash and Tornado Nova source code 
 to teach concepts related to cryptocurrency privacy and zero-knowledge technology. The loss or decreased availability of this 
 source code will be harmful to the scientific and technical communities.
 
@@ -33,7 +33,7 @@ Given that much of the Internet publishing infrastructure is operated by private
 
 The creation of the current archival repository organization does not solve this issue, nor will it repair the damage that has already occurred due to this action. Instead, this repository exists to make clear to the US Treasury Department and Github that *this code has value*, and its removal produces consequences to scientific researchers and students in the United States. Moreover, it exists to test the proposition that code removal should ever been an appropriate response to sanctions orders, no matter how justifiable the order may seem. I have discussed my concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me as a client. See their [blog post](https://www.eff.org/deeplinks/2022/08/code-speech-and-tornado-cash-mixer) here. 
 
-### But Git is decentralized (and IPFS exists) so what's the big deal?
+### But Git is decentralized (and IPFS exists) so why do we care about GitHub?
 
 Git is a decentralized version control system. Hence other copies of the Tornado Cash code certainly exist 
 on other machines and at other locations (in fact, go ahead and make a clone right now!) You should be able to verify that these 
