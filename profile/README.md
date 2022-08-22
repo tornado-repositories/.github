@@ -1,5 +1,4 @@
-## Welcome to Tornado-Repositories
-## An archival fork of the Tornado Cash source code
+## Welcome to Tornado-Repositories: an archival fork of the Tornado Cash source code
 
 These repositories contain an archival fork of the Tornado Cash and Tornado Cash Nova source code base. 
 They are maintained on Github by [Matthew D. Green](https://isi.jhu.edu/~mgreen/) of Johns Hopkins for teaching and research purposes.
