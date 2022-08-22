@@ -33,6 +33,10 @@ Given that much of the Internet publishing infrastructure is operated by private
 
 The creation of this archival repository organization does not solve this issue. Nor will it repair the damage that has already been done by the OFAC order. The purpose of this repository is to make it clear to the US Treasury Department and Github that *this code has value*, and its removal has consequences that affect scientific researchers and students in the United States. Moreover, it exists to test the proposition that code removal should ever been an appropriate future response to a sanctions order, no matter how justified the order itself may be. I have discussed my concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me as a client. See their [blog post](https://www.eff.org/deeplinks/2022/08/code-speech-and-tornado-cash-mixer) here. 
 
+### Why are you hosting this on GitHub... can't GitHub just take down this organization?
+
+That would be exciting! Let's see if that happens. It goes without saying that I have made offline copies of all these repositories and will immediately re-post them in a different location if something like that happens.  
+
 ### But Git is decentralized (and IPFS exists) so why do we care about GitHub?
 
 Git is a decentralized version control system. Hence other copies of the Tornado Cash code certainly exist 
