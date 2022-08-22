@@ -45,6 +45,8 @@ If you want a copy of the code on a more durable decentralized medium, there are
 * Tornado Nova: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
 * Tornado Cash Classic: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
 
+You can also find recent clones of the Tornado Cash repositories on [Software Heritage](https://archive.softwareheritage.org/browse/search/?q=tornadocash&with_visit=true&with_content=true).
+
 ### Will you take PRs for Tornado Cash, or host other projects?
 
 These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
