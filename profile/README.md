@@ -10,8 +10,8 @@ developers and deployed onto Ethereum and several other blockchains. On August 8
 Assets Control (OFAC), a division of the US Treasury, [declared "Tornado Cash" and "Tornado Cash Nova" to be
 Specially Designated Nationals (SDNs)](https://home.treasury.gov/news/press-releases/jy0916): the result was to effectively sanction the Tornado Cash organization and its deployment on Ethereum.
 
-This move to sanction Tornado Cash represents the first example of which Treasury
-applying economic sanctions to an open source software project. As a result of this announcement, several cryptocurrency
+This move to sanction Tornado Cash represents the first instance in which the US government has 
+applied economic sanctions to an open source software project. As a result of this announcement, several cryptocurrency
 exchanges have banned users who interact with the Tornado Cash smart contract address on Ethereum. 
 At the same time, Github shut down the user accounts of all known Tornado Cash developers, and removed the source code repositories owned by Tornado's Github organization. 
 
