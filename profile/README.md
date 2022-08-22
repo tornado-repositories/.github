@@ -1,4 +1,4 @@
-## Welcome to the Tornado-Repositories Github organization
+## Welcome to Tornado-Repositories, an archival fork of the Tornado Cash source code
 
 These repositories contain an archival fork of the Tornado Cash and Tornado Cash Nova source code base. 
 They are maintained on Github by Matthew D. Green (prof. at Johns Hopkins University) for teaching purposes,
@@ -37,5 +37,5 @@ See their blog post here.
 ### Will you take PRs for Tornado Cash, or host other projects?
 
 These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
-which means that they will gradually become obsolete. In time this page may evolve to include other non-TC privacy projects, should I determine that they are also at risk of code 
+which means that they will gradually become obsolete. In time this page may evolve to include other non-TC privacy projects, should I determine that they are also at risk of sanctions-based code  
 removal from Github or other private code hosting firms. 
