@@ -3,6 +3,8 @@
 These repositories contain an archival fork of the Tornado Cash and Tornado Cash Nova source code base. 
 They are maintained on Github by [Matthew D. Green](https://isi.jhu.edu/~mgreen/) of Johns Hopkins for teaching and research purposes.
 
+*See also: EFF [blog post](https://www.eff.org/deeplinks/2022/08/code-speech-and-tornado-cash-mixer).*
+
 ### What is Tornado Cash and what is this repository?
 
 Tornado Cash and Tornado Nova are open-source coin mixing tools that were developed by an independent team of software
@@ -15,7 +17,7 @@ applied economic sanctions to an open source software project. As a result of th
 exchanges have banned users who interact with the Tornado Cash smart contract address on Ethereum. 
 At the same time, [Github shut down the user accounts of all known Tornado Cash developers, and removed the source code repositories owned by Tornado's Github organization.](https://www.theregister.com/2022/08/10/github_tornado_cookies/)
 
-While Github succeeded in removing the original copies of all Tornado source code repositories, they did not remove all "forks" of the code made by GitHub users. Sevearl of these forks were recently collected by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. This current repository is simply a (further) fork of the repositories collected by that organization.  
+While Github succeeded in removing the original copies of all Tornado source code repositories, they did not remove all "forks" of the code made by GitHub users. Several of these forks were recently collected by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. This current repository is simply a (further) fork of the repositories collected by that organization.  
 
 ### Why preserve the Tornado Cash source code?
 
@@ -29,7 +31,7 @@ Tornado Cash code repositories as part of a risk-mitigation procedure they engag
 
 Given that much of the Internet publishing infrastructure is operated by private firms, the Tornado Cash example raises the prospect that the US government may use sanctions to ban source code distribution and scientific speech. This need not be accomplished through explicit action, but rather by imposing severe perceived sanctions risk on private companies and US citizens that host the speech. The result is a "chilling effect" on speech, one that allows the US government to determine which citizens and organizations have the right to publish their source code and scientific artifacts. 
 
-The creation of the current archival repository organization does not solve this issue, nor will it repair the damage that has already occurred due to this action. Instead, this repository exists to make clear to the US Treasury Department and Github that *this code has value*, and its removal produces consequences to scientific researchers and students in the United States. Moreover, it exists to test the proposition that code removal should ever been an appropriate response to sanctions orders, no matter how justifiable the order may seem. I have discussed my concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me as a client.  See their blog post here. 
+The creation of the current archival repository organization does not solve this issue, nor will it repair the damage that has already occurred due to this action. Instead, this repository exists to make clear to the US Treasury Department and Github that *this code has value*, and its removal produces consequences to scientific researchers and students in the United States. Moreover, it exists to test the proposition that code removal should ever been an appropriate response to sanctions orders, no matter how justifiable the order may seem. I have discussed my concerns with the [Electronic Frontier Foundation](https://www.eff.org/) and they have agreed to represent me as a client. See their [blog post](https://www.eff.org/deeplinks/2022/08/code-speech-and-tornado-cash-mixer) here. 
 
 ### But Git is decentralized (and IPFS exists) so what's the big deal?
 
