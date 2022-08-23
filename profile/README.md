@@ -48,9 +48,9 @@ are authentic by comparing hashes to a main trusted repository, like the one tha
 Hence  Github's removal of the Tornado Cash code repositories and developer accounts is not a total ban on the source code. It does have two critical effects: first, it halts the ongoing development of this source code *even as a pure software 
 development and research project.* Second, it makes discovery of the code much more difficult. (It is more analogous to removing a book from major commercial bookstores, while still allowing users to exchange PDF files on USB sticks.) At present a non-expert user searching Google to find the Tornado Cash source will have a difficult time. Try it yourself!
 
-If you want a copy of the code on a more durable decentralized medium, there are some copied of (limited) repositories on IPFS. I certainly don't warranty these (or any of this code), and you should carefully check hashes against the repositories on Github and in the Wayback Machine just in case:
+If you want a copy of the code on a more durable decentralized medium, there are copies of (limited) repositories on IPFS. I certainly don't warranty these (or any of this code), and you should carefully check hashes against the repositories on Github and in the Wayback Machine just in case:
 
-* Tornado Nova: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
+* Tornado Nova: `ipfs://bafybeiho72nozeq2mi6egptem77omhujt5ovpx4jjskg5sz2ti57zlunmm`
 * Tornado Cash Classic: `ipfs://bafybeicu2anhh7cxbeeakzqjfy3pisok2nakyiemm3jxd66ng35ib6y5ri`
 
 You can also find recent clones of the Tornado Cash repositories on [Software Heritage](https://archive.softwareheritage.org/browse/search/?q=tornadocash&with_visit=true&with_content=true).
