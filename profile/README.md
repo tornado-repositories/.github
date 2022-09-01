@@ -17,7 +17,7 @@ applied economic sanctions to an open source software project. As a result of th
 exchanges have banned users who interact with the Tornado Cash smart contract address on Ethereum. 
 Within hours of the OFAC announcement, [Github shut down the user accounts of all known Tornado Cash developers and removed the source code repositories owned by Tornado's Github organization.](https://www.theregister.com/2022/08/10/github_tornado_cookies/)
 
-While Github succeeded in removing the original copies of all Tornado source code repositories, they did not remove all "forks" of the code made by GitHub users. Several [of these forks](https://github.com/tornado-repositories/tornado-verified-forks) were recently collected and (further) forked by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. Those folks did the hard work. The current repository is simply another fork of the repositories they collected.
+While Github succeeded in removing the original copies of all Tornado source code repositories, they did not remove all "forks" of the code made by GitHub users. Several [of these forks](https://github.com/tornado-repositories/tornado-verified-forks) were recently collected and (further) forked by contributors to the [tornadocash-community](https://github.com/tornadocash-community) organization. Those folks did the hard work. The current repository is simply another fork of the repositories they collected. (Note: some additional repositories have since been added, see below.)
 
 ### Why preserve the Tornado Cash source code?
 
@@ -59,3 +59,11 @@ You can also find recent clones of the Tornado Cash repositories on [Software He
 
 These repositories are intended as an archival project only. They are yours to clone and fork. They will not be actively developed,
 which means that over time they will gradually become obsolete. If open source Tornado Cash development resumes (even under a different team of developers), I may periodically clone copies of their repositories here. In the future this organization may also evolve to host archival forks of other non-TC privacy projects, should I determine that they are also at risk of sanctions-based code removal.
+
+### Additional repositories
+
+After adding the initial repositories, several additional repositories were provided by anonymous contributors. These will be added one at a time after I have a chance to manually verify the hashes against cached copies of the original GitHub website. So far the public repositories include:
+
+* tornado-onion
+
+A new repository called [GOOGLE_CACHE](https://github.com/tornado-repositories/GOOGLE_CACHE) contains details on the hash verification, as well as links/copies of the cached web pages.
