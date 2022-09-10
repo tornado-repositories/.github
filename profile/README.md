@@ -65,5 +65,6 @@ which means that over time they will gradually become obsolete. If open source T
 After adding the initial repositories, several additional repositories were provided by anonymous contributors. These will be added one at a time after I have a chance to manually verify the hashes against cached copies of the original GitHub website. So far the public repositories include:
 
 * tornado-onion
+* tornado-trees-proposal
 
 A new repository called [GOOGLE_CACHE](https://github.com/tornado-repositories/GOOGLE_CACHE) contains details on the hash verification, as well as links/copies of the cached web pages.
